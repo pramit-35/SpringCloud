@@ -3,7 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sink" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/task" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/taskconsumer" charset="UTF-8" />
   </component>
 </project>
